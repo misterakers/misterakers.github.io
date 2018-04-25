@@ -821,7 +821,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/23621482-1493586110761697-1139431252951609516-n-960x640.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -924,7 +924,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fans-1200x796.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
