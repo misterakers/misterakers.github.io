@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Penn Bands",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
       ]
     },
     "versionFirst": "4.7.1",
-    "uniqCompNum": 187,
+    "uniqCompNum": 188,
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -2784,20 +2784,18 @@
             ".mbr-text, blockquote": {
               "color": "#767676"
             },
-            ".mbr-text B": {
-              "color": "#232323"
-            },
-            ".mbr-text P": {
+            ".mbr-text DIV": {
               "color": "#000000"
             },
-            ".mbr-text DIV": {
+            ".mbr-text P": {
               "color": "#000000"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Description:</b> The Winter Guard is a continuation and expansion of the Fall Color Guard.  The Winter Guard program currently includes five different level-based ensembles, all of which compete in contests throughout the winter season.  Performers focus on refining dance and equipment skills as they prepare their competitive shows.\n</p><p></p><div><b>Eligibility Requirements:</b> Color guard members must pass an audition.\n</div><div>\n</div><div><b>Sponsor/Coach Name:</b> Jen Buckholz\n</div><div>\n</div><div><b>E-Mail:</b> tenny1929@yahoo.com \n</div><div>\n</div><div><b>Meetings:</b> 18 hours per week / 4 to 5 times per week after school. Marching band (fall color guard) also practices during the summer. \n</div><div>\n</div><div><b>Where:</b> Fine Arts area\n</div><div>\n</div><div><b>Membership Limit:</b> none\n</div><div>\n</div><div><b>Procedure for Joining:</b> Audition</div><p></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qQfny5FucF",
-          "_anchor": "content1-1d",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem; color: rgb(35, 35, 35);\"><b>Description:</b>&nbsp;The Winter Guard is a continuation and expansion of the Fall Color Guard. The Winter Guard program currently includes five different level-based ensembles, all of which compete in contests throughout the winter season. Performers focus on refining dance and equipment skills as they prepare their competitive shows.</span><span style=\"font-size: 1rem; color: rgb(35, 35, 35);\">&nbsp;</span><br></p><p></p><div><font color=\"#232323\"><b>Eligibility Requirements:</b> Color guard members must pass an audition.\n</font></div><div><font color=\"#232323\">\n</font></div><div><font color=\"#232323\"><b><br></b></font></div><div><font color=\"#232323\"><b>Sponsor/Coach Name:</b> Jen Buckholz             \n</font></div><div><font color=\"#232323\">\n</font></div><div><font color=\"#232323\"><br></font><b style=\"font-size: 1rem;\">E-Mail:</b><span style=\"font-size: 1rem;\"> tenny1929@yahoo.com&nbsp;</span></div><div><font color=\"#232323\">\n</font></div><div><font color=\"#232323\"><b><br></b></font></div><div><font color=\"#232323\"><b>Meetings:&nbsp;</b></font><span style=\"font-size: 1rem;\">18 hours per week / 4 to 5 times per week after school.&nbsp;</span><span style=\"font-size: 1rem;\">Marching band (fall color guard) also practices during&nbsp;</span><span style=\"font-size: 1rem;\">the summer.&nbsp;</span></div><div><font color=\"#232323\">\n</font></div><div><font color=\"#232323\"><b><br></b></font></div><div><font color=\"#232323\"><b>Where:</b> Fine Arts area\n</font></div><div><font color=\"#232323\">\n</font></div><div><font color=\"#232323\"><b><br></b></font></div><div><font color=\"#232323\"><b>Membership Limit:</b> none\n</font></div><div><font color=\"#232323\">\n</font></div><div><font color=\"#232323\"><b><br></b></font></div><div><font color=\"#232323\"><b>Procedure for Joining:</b> Audition</font></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-57",
+          "_isUserblock": true,
+          "_cid": "qQgfde5vKA",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
