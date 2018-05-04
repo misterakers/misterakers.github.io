@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WGMS",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
       ]
     },
     "versionFirst": "4.7.1",
-    "uniqCompNum": 194,
+    "uniqCompNum": 196,
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1921,25 +1921,10 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/07/18</a>\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/14/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qQrHTJG0k1",
-          "_anchor": "content8-2b",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/28/18</a>\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">10/05/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">10/12/18</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content8-2d",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/07/18</a>\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/14/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content8-5f",
           "_isUserblock": true,
-          "_cid": "qQrIxMxUgI",
+          "_cid": "qR5HnJ2ecb",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -2338,25 +2323,10 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/07/18</a>\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/14/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qQrIYf4jP1",
-          "_anchor": "content8-2k",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/28/18</a>\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">10/05/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">10/12/18</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/07/18</a>\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/14/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\">09/21/18</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content8-5e",
           "_isUserblock": true,
-          "_cid": "qQrIYfpXEt",
-          "_anchor": "content8-2l",
+          "_cid": "qR5HiNgIwp",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
